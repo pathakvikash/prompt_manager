@@ -1,0 +1,10 @@
+typer<0.10.0
+click<8.2.0
+rich
+python-dotenv
+requests
+pytest
+duckduckgo-search
+ddgs
+beautifulsoup4
+lxml
