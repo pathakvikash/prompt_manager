@@ -41,6 +41,9 @@ export default function LoginPage() {
                     <p className="text-gray-400 text-sm mt-2 text-center">
                         Enter your username to access your prompts and chat history.
                     </p>
+                    <p className="text-gray-600 text-m mt-2 text-center">
+                        Try alex_coder username to test
+                    </p>
                 </div>
 
                 {error && (
